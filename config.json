@@ -1,0 +1,3 @@
+{
+    "connectionString":"mongodb+srv://anushka:anushka@cluster0.moaps.mongodb.net/epiglow?retryWrites=true&w=majority&appName=Cluster0"
+}
