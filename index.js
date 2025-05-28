@@ -1,7 +1,6 @@
 require('dotenv').config()
 
 const mongoose = require('mongoose')
-const config = require('./config.json')
 mongoose.connect(process.env.MONGO_URI)
 
 const User = require('./models/UserModel')
